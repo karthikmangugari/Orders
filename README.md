@@ -107,7 +107,7 @@ CREATE TABLE product (
     PRIMARY KEY ( prod_id )
 );
 /* 10.                                                                                              
-Insert the data shown at http://faculty.ist.unomaha.edu/wolcott/isqa8410/assign1/sqldata.html into y
+Insert the data shown at  into y
 our tables.*/                                                                                       
 INSERT INTO product (
     prod_id,
